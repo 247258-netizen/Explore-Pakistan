@@ -695,7 +695,7 @@ img { max-width: 100%; display: block; }
 .btn-pk-subscribe {
   background: var(--pk-gold); color: var(--pk-dark);
   font-weight: 700; font-size: 0.85rem;
-  padding: 10px 20px; border-radius: var(--radius-sm);
+  padding: 11px 21px; border-radius: var(--radius-sm);
   border: none; white-space: nowrap;
   transition: background var(--trans);
 }
