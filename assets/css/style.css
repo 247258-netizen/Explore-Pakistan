@@ -410,7 +410,7 @@ img { max-width: 100%; display: block; }
   border-radius: var(--radius-pill);
   z-index: 2;
 }
-.tourist-body { padding: 18px; }
+.tourist-body { padding: 20px; }
 .tourist-name { font-family: var(--font-display); font-size: 1rem; font-weight: 700; color: var(--pk-white); margin-bottom: 4px; }
 .tourist-loc { font-size: 0.7rem; color: var(--pk-gold); font-weight: 600; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.08em; }
 .tourist-desc { font-size: 0.8rem; color: rgba(255,255,255,0.55); line-height: 1.65; margin-bottom: 10px; }
