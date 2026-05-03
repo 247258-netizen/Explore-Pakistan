@@ -193,7 +193,7 @@ img { max-width: 100%; display: block; }
 }
 .hero-title-big {
   font-family: var(--font-headline);
-  font-size: clamp(5rem, 13vw, 10rem);
+  font-size: clamp(5rem, 14vw, 10rem);
   color: var(--pk-white);
   letter-spacing: 0.05em;
   background: linear-gradient(135deg, #fff 0%, var(--pk-gold-light) 50%, #fff 100%);
