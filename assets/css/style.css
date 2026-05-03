@@ -491,7 +491,7 @@ img { max-width: 100%; display: block; }
 .cc-img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.5s ease; filter: brightness(0.75); }
 .culture-card:hover .cc-img { transform: scale(1.06); filter: brightness(0.9); }
 
-.cc-body { padding: 24px; }
+.cc-body { padding: 26px; }
 .cc-icon-box {
   width: 48px; height: 48px;
   background: rgba(255,255,255,0.06);
