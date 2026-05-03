@@ -76,7 +76,7 @@ img { max-width: 100%; display: block; }
 .pk-navbar {
   background: rgba(10,46,26,0.97);
   backdrop-filter: blur(16px);
-  padding: 14px 0;
+  padding: 15px 0;
   position: sticky;
   top: 0;
   z-index: 1000;
