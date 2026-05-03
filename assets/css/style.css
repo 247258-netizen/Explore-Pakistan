@@ -468,7 +468,7 @@ img { max-width: 100%; display: block; }
   padding: 4px 10px;
   border-radius: var(--radius-pill);
 }
-.food-body { padding: 18px; }
+.food-body { padding: 20px; }
 .food-name { font-family: var(--font-display); font-size: 1.05rem; font-weight: 700; color: var(--pk-dark); margin-bottom: 4px; }
 .food-origin { font-size: 0.7rem; font-weight: 700; color: var(--pk-gold); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 8px; }
 .food-desc { font-size: 0.8rem; color: var(--pk-text-light); line-height: 1.65; margin: 0; }
