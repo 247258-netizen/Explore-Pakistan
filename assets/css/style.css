@@ -32,7 +32,7 @@ html { scroll-behavior: smooth; }
 body { font-family: var(--font-body); color: var(--pk-text); background: var(--pk-cream); line-height: 1.65; overflow-x: hidden; }
 a { text-decoration: none; }
 img { max-width: 100%; display: block; }
-.section-pad { padding: 90px 0; }
+.section-pad { padding: 92px 0; }
 
 /* ============================================================
    SHARED SECTION TYPOGRAPHY
