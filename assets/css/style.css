@@ -319,7 +319,7 @@ img { max-width: 100%; display: block; }
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
-.city-body { padding: 24px; }
+.city-body { padding: 26px; }
 .city-name { font-family: var(--font-display); font-size: 1.4rem; font-weight: 700; color: var(--pk-dark); margin-bottom: 4px; }
 .city-tagline { font-size: 0.75rem; font-weight: 700; color: var(--pk-gold); text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 12px; }
 .city-desc { font-size: 0.875rem; color: var(--pk-text-light); line-height: 1.7; margin-bottom: 0; }
