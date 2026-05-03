@@ -250,7 +250,7 @@ img { max-width: 100%; display: block; }
   letter-spacing: 0.1em;
   margin-top: 4px;
 }
-.hero-divider { width: 1px; height: 40px; background: rgba(255,255,255,0.15); align-self: center; }
+.hero-divider { width: 1px; height: 44px; background: rgba(255,255,255,0.15); align-self: center; }
 
 /* Scroll hint */
 .scroll-hint {
