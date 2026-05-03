@@ -677,7 +677,7 @@ img { max-width: 100%; display: block; }
   text-transform: uppercase; letter-spacing: 0.15em;
   color: var(--pk-gold); margin-bottom: 16px;
 }
-.footer-links { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; }
+.footer-links { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 12px; }
 .footer-links a { font-size: 0.875rem; color: rgba(255,255,255,0.5); transition: color var(--trans); }
 .footer-links a:hover { color: var(--pk-gold); }
 
